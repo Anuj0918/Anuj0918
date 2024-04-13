@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [NETFLIX_GPT](https://netflixgpt-d785c.web.app/)
 
-- 🌱 I’m currently learning **Backend technology like express js**
+- 🌱 I’m currently learning **Machine Leaning and Data scienc**
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 💬 Ask me about **Reactjs , javascript,MERN**
+- 💬 Ask me about **Reactjs , javascript,ML,Deep Learning**
 
 - 📫 How to reach me **anujtiwari2822@gmail.com**
 
