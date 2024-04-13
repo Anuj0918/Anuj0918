@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [NETFLIX_GPT](https://netflixgpt-d785c.web.app/)
 
-- 🌱 I’m currently learning **Machine Leaning and Data scienc**
+- 🌱 I’m currently learning **Machine Leaning and Data science**
 
 - 👯 I’m looking to collaborate on **open source**
 
